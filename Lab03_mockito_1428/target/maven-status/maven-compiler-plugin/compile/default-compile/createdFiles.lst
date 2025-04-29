@@ -1,0 +1,5 @@
+org\example\HashLib.class
+org\example\UserRepository.class
+org\example\Main.class
+org\example\AuthManager.class
+org\example\User.class
